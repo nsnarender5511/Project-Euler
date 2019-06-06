@@ -36,3 +36,20 @@ using namespace std;
 
    	return 0;
 }
+
+
+
+/*
+    Q. Find the sum of all the multiples of 3 or 5 below n 
+
+    -----------------  Testcases  ---------------------------------
+
+            2
+            10
+            100
+
+    ----------------- Output ------------------------------------
+    
+            23
+            2318
+*/
